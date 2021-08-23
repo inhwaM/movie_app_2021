@@ -1,0 +1,28 @@
+.detail__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+}
+
+img {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  max-width: 500px;
+  max-height: 450px;
+}
+
+.detail_title {
+  font-size: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.detail__container span:last-child {
+  width: 500px;
+  text-align: left;
+  word-spacing: 0.2cm;
+  margin-bottom: 50px;
+}

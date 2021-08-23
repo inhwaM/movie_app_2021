@@ -1,3 +1,3 @@
 # Movie App 2021
 
-React JS Fundamentals Course (2019 update!)
+This app is the list of movies with the highest ranking from the YTS/YIFY Movies website.
